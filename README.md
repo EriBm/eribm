@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
-
-<i class="programming lang-java"></i>
-<i class="programming lang-javascript"></i>
-<i class="programming lang-cpp"></i>
-<i class="programming lang-typescript"></i>
-<i class="programming lang-python"></i>
-<i class="programming lang-kotlyn"></i>
+<div align="">  
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="Java" height="25" />  
+</div>  
