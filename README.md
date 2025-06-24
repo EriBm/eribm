@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erica Barrios</h1>
-<h3 align="center">A passionate full stack developer from Venezuela</h3>
+<h3 align="center">A passionate full stack developer and Tech Lead</h3>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Cloud**
 
 - 👨‍💻 All of my projects are available at [ericabarrios.me](ericabarrios.me)
 
