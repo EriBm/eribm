@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erica Barrios Mendoza</h1>
 <h3 align="center">a Senior Software Engineer and Tech Lead with over 15 years of experience in the full software development lifecycle.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eribm&label=Profile%20views&color=0e75b6&style=flat" alt="eribm" /> </p>
 
 - 🔭 I’m currently working on [Duecourse Inc](https://duecourse.coach/)
 
