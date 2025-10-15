@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Duecourse Inc](https://duecourse.coach/)
 
-- 🌱 I’m currently learning **Cloud**
+- 🌱 I’m currently learning **AWS Architecture**
 
 - 👯 I’m currently collaborating in [Empower Tech Spain](https://empower-tech.org/)
 
